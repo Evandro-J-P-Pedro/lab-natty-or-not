@@ -18,7 +18,7 @@ uma pequena apresentação utilizando totalmente os recursos de IA generativa.
 
 
 
-![Os avanços da IA generativa na engenharia elétrica](https://github.com/Evandro-J-P-Pedro/lab-natty-or-not/blob/main/IA%20generativa.png)(https://app.heygen.com/share/7c4dc0f0fa8041ad95a7a0cd0c8cc14a)
+[![Os avanços da IA generativa na engenharia elétrica](https://github.com/Evandro-J-P-Pedro/lab-natty-or-not/blob/main/IA%20generativa.png)](https://app.heygen.com/share/7c4dc0f0fa8041ad95a7a0cd0c8cc14a)
 
 
 
