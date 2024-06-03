@@ -6,16 +6,18 @@ Este projeto é inspirado na hype "Natty or Not" do fisiculturismo e tem como in
 uma pequena apresentação utilizando totalmente os recursos de IA generativa.
 
 ## 🤖 Tecnologias Utilizadas
- # Chat GPT 4.0
- # HeyGem
- # Gamma.app
+  Chat GPT 4.0
+  HeyGem
+  Gamma.app
 
 ## 🧐 Processo de Criação
  Primeiramente foi escolhido um tema no qual fosse possivel perceber as contribuiçoes da engenharia eletrica para 
 
 ## 🚀 Resultados
 
-[Os Avanços da IA generativa na engenharia elétrica](https://app.heygen.com/share/7c4dc0f0fa8041ad95a7a0cd0c8cc14a)
+[Os avanços da IA generativa na engenharia elétrica](https://app.heygen.com/share/7c4dc0f0fa8041ad95a7a0cd0c8cc14a)
+Os Avanços da IA generativa na engenharia Elétri
+
 
 
 
