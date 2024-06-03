@@ -3,7 +3,7 @@
 
 ## 📒 Descrição
  Este projeto é inspirado na hype "Natty or Not" do fisiculturismo e tem como intuito de explorar o mundo das IAs Generativas, Criando 
-uma pequena apresentação de 1 minuto utilizando totalmente os recursos de IA generativa.
+uma pequena apresentação de 1 minuto utilizando exclusivamente os recursos de IA generativa.
 
 ## 🤖 Tecnologias Utilizadas
  - IA generativa [Chat GPT 4.0](https://chatgpt.com/) para roterização e revisão.
